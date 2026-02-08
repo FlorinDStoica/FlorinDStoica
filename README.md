@@ -25,5 +25,7 @@ To florin.stoica.2009@gmail.com—make contact fast!
 
 Thus speaks @FlorinDStoica, in iambic verse,
 For better collaboration—or for worse!
+
 ---
+
 Exeunt, pursued by a segmentation fault 🎭✨
